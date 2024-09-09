@@ -1,0 +1,133 @@
+.star{
+    margin: 50px 1px 0px;
+    justify-content: center;
+    display: flex;
+    border-radius: 10px;
+    border: 2px solid beige;
+}
+
+.starSec1{
+    width: 27%;
+    text-align: center;
+    margin: 20px 10px 20px 30px;
+}
+
+.starImg{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+.starSec1 p{
+    text-align: center;
+    padding-top: 10px;
+}
+.starSec1 h5{
+    text-align: center;
+    padding-top: 10px;
+}
+.starSec1 button{
+    text-align: center;
+    padding: 2px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.starSec1 button:hover{
+    background-color: rgb(192, 192, 2);
+}
+
+.starSec2{
+    width: 65%;
+    margin: 20px 30px 20px 10px;
+}
+.starSec2 p{
+    margin: 40px;
+    padding: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.starbutton{
+    width: 40%;
+    margin: 50px 30px 20px 100px;
+    display: flex;
+}
+.starbut{
+    margin-left: 60px;
+    padding: 3px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    color: blue;
+    background-color: rgb(229, 255, 255);
+}
+.starbut:hover{
+    background-color: rgb(203, 247, 247);
+}
+.starpics{
+    padding: 5px;
+    margin-top: 30px;
+}
+.starpic{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+
+/*       Easy option        */
+.starquiz{
+    width: 750px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 34, 0.67);
+    color: beige;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px 50px;
+    border-radius: 20px;
+}
+.starquiz hr{
+    height: 2px;
+    border: none;
+    background: rgb(244, 165, 165);
+}
+.starquiz h2{
+    font-size: 22px;
+    font-weight: 500;
+}
+.starquiz ul{
+    margin-left: 30px;
+}
+.starquiz ul li{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 15px;
+    border: 1px solid bisque;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.starquiz button{
+    margin: auto;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+    background: beige;
+}
+.index{
+    margin: auto;
+    font-size: 15px;
+}
+.starquiz .correct{
+    background: #01ad7c;
+    border-color: #019168;
+}
+.starquiz .wrong{
+    background: #ff4a4f;
+    border-color: #fd0710;
+}
