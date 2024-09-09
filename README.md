@@ -7,7 +7,7 @@ This repository contains all the front-end development projects I completed duri
 1. **Task 1: [Online Quiz Game]**  
    - **Description:** An interactive quiz game built using React and JavaScript. The app features multiple-choice questions, real-time score tracking, and user feedback, making it an engaging way to test knowledge. This project demonstrates skills in user input handling, dynamic updates, and score management while offering opportunities for further enhancements using additional web development technologies.
    - **Technologies:** React, CSS, React Router  
-   - **Link:** [Live Demo](https://online-quiz-game-roan.vercel.app/quiz) | [Repository](https://github.com/PratikKumarSingh2503/CodeClause-Web-Development-Internship/tree/main/quiz)
+   - **Link:** [Live Demo](https://online-quiz-game-roan.vercel.app/) | [Repository](https://github.com/PratikKumarSingh2503/CodeClause-Web-Development-Internship/tree/main/quiz)
 
 2. **Task 2: [Github Explorer]**  
    - **Description:** A GitHub Explorer web application built with technologies like React and JavaScript, integrating the GitHub API to allow users to search for repositories, view detailed repository information, and explore user profiles. This project focuses on API integration, user-friendly design, and data presentation, showcasing skills in handling external data and developing interactive web applications.
