@@ -14,7 +14,7 @@ This repository contains all the front-end development projects I completed duri
    - **Technologies:** React, CSS, API Integration  
    - **Link:** [Live Demo](https://github-explorer-ruby.vercel.app/) | [Repository](https://github.com/PratikKumarSingh2503/CodeClause-Web-Development-Internship/tree/main/github-clone)
 
-3. **Task 3: [Blog Platform]**  
+3. **Task 3: [Tour & Travel]**  
    - **Description:** A travel app designed to help users discover, plan, and book tours, built using technologies like React, JavaScript, and Node. The app provides destination details, attractions, and activities, offering personalized travel experiences. It includes features like user authentication, interactive maps with geolocation, and user-generated content management, making it a comprehensive platform for travelers to enhance their journeys.
    - **Technologies:** React, CSS3, Node  
    - **Link:** [Live Demo](https://travel-travel.vercel.app/) | [Repository](https://github.com/PratikKumarSingh2503/CodeClause-Web-Development-Internship/tree/main/tour-travel)
